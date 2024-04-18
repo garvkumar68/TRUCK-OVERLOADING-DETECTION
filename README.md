@@ -1,1 +1,2 @@
-# TRUCK-OVERLOADING-DETECTION
+# Vehicle-overloading-sensor-
+Domain : IOT
